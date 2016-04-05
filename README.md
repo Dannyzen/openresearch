@@ -20,3 +20,6 @@ Below is a description of each document and its intended use.
 ### Credit
 
 This repository is an ammended version of the work done by Mark Sherrill. Without his effort these documents would note exist.
+
+### License
+[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
