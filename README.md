@@ -6,6 +6,7 @@ Open Research is a framework that contains documents that aid in the practice of
 
 
 ### What does this repository consist of?
+
 Below is a description of each document and its intended use.
 
 * Open Research - Introduction: An overview of what the framework offers
@@ -17,9 +18,16 @@ Below is a description of each document and its intended use.
 * Interview Summary Templates: A sample interview summary template aimed at gathering series and invidual interview results
 * Voice of The Customer Presentation Template: A sample "voice of the customer" presentation to share high level research results
 
+
+### What's with the file formats?
+
+The documents in this repository are saved as non-proprietary file formats. They can be opened in most any office software suite. 
+
+
 ### Credit
 
 This repository is an ammended version of the work done by Mark Sherrill. Without his effort these documents would note exist.
+
 
 ### License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
