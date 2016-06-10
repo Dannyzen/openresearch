@@ -26,7 +26,7 @@ The documents in this repository are saved as non-proprietary file formats. They
 
 ### Credit
 
-This repository is an ammended version of the work done by Mark Sherrill. Without his effort these documents would note exist.
+This repository is an ammended version of the work done by Mark Sherrill. Without his effort these documents would not exist.
 
 
 ### License
